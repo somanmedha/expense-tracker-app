@@ -48,7 +48,7 @@ Security has not been implemented in this project for the REST APIs. The focus i
 
 ## 6. API Endpoints
 
-To use the APIs, you need to run the application and visit `http://localhost:8080/swagger-ui/index.html`. Below are the details of the available endpoints:
+To use the APIs, you need to run the application and visit `http://localhost:8080/swagger-ui/index.html`.
 
 ## 7. Contributing
 
